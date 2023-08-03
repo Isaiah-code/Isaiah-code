@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amo Mensah Isaiah</h1>
 <h3 align="center">A software developer with a lot of focus on mobile technologies</h3>
 
-<p align="left"> <a href="https://twitter.com/isaiamam_" target="blank"><img src="https://img.shields.io/twitter/follow/iamdecoderr?logo=twitter&style=for-the-badge" alt="iamdecoderr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/isaiaham_" target="blank"><img src="https://img.shields.io/twitter/follow/iamdecoderr?logo=twitter&style=for-the-badge" alt="isaiaham_" /></a> </p>
 
 - 🔭 I’m currently building **Ceruba**
 
