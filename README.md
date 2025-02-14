@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/isaiaham_" target="blank"><img src="https://img.shields.io/twitter/follow/iamdecoderr?logo=twitter&style=for-the-badge" alt="isaiaham_" /></a> </p>
 
-- 🔭 I’m currently building **Ceruba**
-
 - 📫 How to reach me **amomensahisaiah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
